@@ -1,17 +1,13 @@
-
-
-
-
-public class welcomeMessage {
+public class _1_welcomeMessage {
     
     public static void main(String[] args) {
         
-        System.out.println(welcomeMessage());
+        System.out.println(displayWelcomeMessage());
 
 
     }
 
-    static String welcomeMessage() {
+    static String displayWelcomeMessage() {
         
         //System.out.println("Welcome to Mesozoic Eden!\nMesozoic Park is safe and secure.");
 
